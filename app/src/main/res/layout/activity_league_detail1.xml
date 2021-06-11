@@ -29,7 +29,7 @@
                 android:layout_marginBottom="4dp"
                 android:orientation="horizontal">
 
-                <com.aroniez.futaa.ui.views.RoundedImageView
+                <com.sportnow.bra.ui.views.RoundedImageView
                     android:id="@+id/leagueImage"
                     android:layout_width="72dp"
                     android:layout_height="72dp"

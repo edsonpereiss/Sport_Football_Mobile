@@ -23,7 +23,7 @@
             android:layout_margin="8dp"
             android:orientation="vertical">
 
-            <com.aroniez.futaa.ui.views.RoundedImageView
+            <com.sportnow.bra.ui.views.RoundedImageView
                 android:id="@+id/countryFlag"
                 android:layout_width="72dp"
                 android:layout_height="72dp"
@@ -69,7 +69,7 @@
             android:layout_margin="8dp"
             android:orientation="vertical">
 
-            <com.aroniez.futaa.ui.views.RoundedImageView
+            <com.sportnow.bra.ui.views.RoundedImageView
                 android:id="@+id/coachImage"
                 android:layout_width="72dp"
                 android:background="@drawable/country_flag_bg"

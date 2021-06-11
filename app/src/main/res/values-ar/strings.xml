@@ -1,12 +1,12 @@
 <resources>
 
     <!--Do not translate the following two-->
-    <string name="banner_app_id">ca-app-pub-1955254598121537~7845093982</string>
-    <string name="ad_unit_id">ca-app-pub-1955254598121537/9192483606</string>
-    <string name="native_unit_id">ca-app-pub-1955254598121537/5744193184</string>
+    <string name="banner_app_id">ca-app-pub-8748862425777674~5373968536</string>
+    <string name="ad_unit_id">ca-app-pub-8748862425777674/3566062848</string>
+    <string name="native_unit_id">ca-app-pub-8748862425777674/6044106273</string>
 
     <!--Translate the following-->
-    <string name="app_name">Futaa</string>
+    <string name="app_name">Sport Now Brazilian Football</string>
     <string name="matches">اعواد الكبريت</string>
     <string name="live">حي</string>
     <string name="favorites">المفضلة</string>

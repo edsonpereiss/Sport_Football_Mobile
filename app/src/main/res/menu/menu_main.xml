@@ -9,12 +9,12 @@
     <item
         android:id="@+id/action_share"
         android:enabled="true"
-        android:title="Share Futaa"
+        android:title="Share SportNow"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_rate"
         android:enabled="true"
-        android:title="Rate Futaa"
+        android:title="Rate SportNow"
         app:showAsAction="never" />
 
 </menu>

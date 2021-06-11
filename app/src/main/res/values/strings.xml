@@ -1,12 +1,12 @@
 <resources>
 
     <!--Do not translate the following two-->
-    <string name="banner_app_id">ca-app-pub-2073250045598515~2363764062</string>
-    <string name="ad_unit_id">ca-app-pub-2073250045598515/8162885656</string>
-    <string name="native_unit_id">ca-app-pub-2073250045598515/8901252256</string>
+    <string name="banner_app_id">ca-app-pub-8748862425777674~5373968536</string>
+    <string name="ad_unit_id">ca-app-pub-8748862425777674/3566062848</string>
+    <string name="native_unit_id">ca-app-pub-8748862425777674/6044106273</string>
 
     <!--Translate the following-->
-    <string name="app_name">Futaa</string>
+    <string name="app_name">Sport Now Brazilian Football</string>
     <string name="matches">Matches</string>
     <string name="live">Live</string>
     <string name="favorites">Favorites</string>

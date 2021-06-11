@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "276922009214",
-    "firebase_url": "https://futaa-40cc1.firebaseio.com",
-    "project_id": "futaa-40cc1",
-    "storage_bucket": "futaa-40cc1.appspot.com"
+    "project_number": "316850326106",
+    "project_id": "sport-now-2e6f0",
+    "storage_bucket": "sport-now-2e6f0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:276922009214:android:c2873d79aa81f5e7c7ba2f",
+        "mobilesdk_app_id": "1:316850326106:android:bab7ae545bd93ef943e663",
         "android_client_info": {
-          "package_name": "com.aroniez.futaa"
+          "package_name": "com.sportnow.bra"
         }
       },
       "oauth_client": [
         {
-          "client_id": "276922009214-69nc525kqid67dbdc0r0oimdmccmsj93.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.aroniez.futaa",
-            "certificate_hash": "55c9a94cc3882d218a7b66d29eaea97e79a7fb0d"
-          }
-        },
-        {
-          "client_id": "276922009214-7tt7ujfvihvc6j3a32l06u8tm7q6doog.apps.googleusercontent.com",
+          "client_id": "316850326106-h64t78210cdsp3qnkcj96nmmgmmkqavj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAugKXmHpoWVGZ3uNs_EdBZPxy2km9jx4Y"
+          "current_key": "AIzaSyC2X3JDvgAGucMa2DzNw2qbgfsIhHzaFIM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "276922009214-7tt7ujfvihvc6j3a32l06u8tm7q6doog.apps.googleusercontent.com",
+              "client_id": "316850326106-h64t78210cdsp3qnkcj96nmmgmmkqavj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

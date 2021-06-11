@@ -3,6 +3,11 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1eced32137e77335b66241bc8f18ffa1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1eced32137e77335b66241bc8f18ffa1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb007c7c9ab89c87f1c8dc4d018e00d0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9a8c4097ac527b83fdb4b1c5734a8b0/jetified-firebase-auth-19.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59a48efcec561a4234e13d894b98ce2b/jetified-firebase-auth-19.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59a48efcec561a4234e13d894b98ce2b/jetified-firebase-auth-19.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59a48efcec561a4234e13d894b98ce2b/jetified-firebase-auth-19.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/19.1.0/f6a651d820a5ef1d5e21935ddf74c59fd8746931/firebase-auth-19.1.0-javadoc.jar!/" />

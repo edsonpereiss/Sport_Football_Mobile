@@ -3,6 +3,11 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7ea1e5a6fe430c3b8ec39d471bf6388/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7ea1e5a6fe430c3b8ec39d471bf6388/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bccf179635c907fedc1c4d4b4fb61e1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fca654e90e038ed55fcd1962c3ef51a/jetified-play-services-gass-17.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dbf29854b162090cc3e4cfd82b9429/jetified-play-services-gass-17.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dbf29854b162090cc3e4cfd82b9429/jetified-play-services-gass-17.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dbf29854b162090cc3e4cfd82b9429/jetified-play-services-gass-17.2.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-gass/17.2.1/b884044d2f8732260837f470f4ed231a876cb2e3/play-services-gass-17.2.1-javadoc.jar!/" />

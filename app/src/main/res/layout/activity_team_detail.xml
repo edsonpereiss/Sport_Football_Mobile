@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
-                <com.aroniez.futaa.ui.views.RoundedImageView
+                <com.sportnow.bra.ui.views.RoundedImageView
                     android:id="@+id/leagueImage"
                     android:layout_width="72dp"
                     android:layout_height="72dp"
@@ -63,7 +63,7 @@
         android:layout_height="wrap_content"
         app:tabIndicatorHeight="5dp" />
 
-    <com.aroniez.futaa.ui.views.CustomViewPager
+    <com.sportnow.bra.ui.views.CustomViewPager
         android:id="@+id/viewpager"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

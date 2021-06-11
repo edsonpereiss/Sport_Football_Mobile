@@ -13,7 +13,7 @@
         app:tabSelectedTextColor="@color/accent"
         app:tabTextColor="#4B4B4B" />
 
-    <com.aroniez.futaa.ui.views.NonSwipeableViewPager
+    <com.sportnow.bra.ui.views.NonSwipeableViewPager
         android:id="@+id/viewpager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
